@@ -20,5 +20,5 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.FunnCo:SimpleImages:1.0.0'
 	}
-  ```gradle
+  ```
 That's it! The first time you request a project JitPack checks out the code, builds it and serves the build artifacts (jar, aar).
